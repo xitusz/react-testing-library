@@ -1,5 +1,5 @@
 # React Testing Library
-[5/9] [Desenvolvimento Front-end](https://github.com/G-Alves1/Trybe/tree/main/02_Desenvolvimento-Front-end)
+[5/9] [Desenvolvimento Front-end](https://github.com/xitusz/Trybe/tree/main/02_Desenvolvimento-Front-end)
 
 ---
 
@@ -46,7 +46,7 @@ Testar inputs.
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/react-testing-library.git
+    git clone git@github.com:xitusz/react-testing-library.git
   ```
 
 ---
